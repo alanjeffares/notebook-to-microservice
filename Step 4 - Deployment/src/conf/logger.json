@@ -1,0 +1,5 @@
+{
+    "format": "%(asctime)s:%(filename)s:%(levelname)s:%(message)s",
+    "level": "DEBUG",
+    "filename": "logs.log"
+}

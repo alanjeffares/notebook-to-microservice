@@ -1,0 +1,12 @@
+version: '3'
+services:
+  sample_microservice:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    cap_add:
+      - ALL
+    ports:
+      - "5000:5000"
+    expose:
+      - "5000"

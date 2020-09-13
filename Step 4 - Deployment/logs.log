@@ -1,0 +1,11 @@
+2020-09-10 12:12:06,969:run.py:INFO:Beginning process train
+2020-09-10 12:12:07,701:data_utils.py:INFO:Loading data
+2020-09-10 12:12:08,014:data_utils.py:INFO:Splitting train and test sets
+2020-09-10 12:12:08,022:train.py:INFO:Training model
+2020-09-10 12:12:08,224:train.py:INFO:best model: Pipeline(steps=[('scaler', StandardScaler()),
+                ('clf', ClfSwitcher(estimator=LogisticRegression()))])
+2020-09-10 12:12:08,226:train.py:INFO:Test set accuracy: 1.0
+2020-09-10 12:12:08,226:model_utils.py:INFO:Saving model
+2020-09-10 12:12:10,151:run.py:INFO:Beginning process predict
+2020-09-10 12:12:10,859:model_utils.py:INFO:Loading model
+2020-09-10 12:12:10,861:predict.py:INFO:Predicted class: setosa

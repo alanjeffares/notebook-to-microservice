@@ -1,0 +1,5 @@
+{
+    "scoring": "accuracy",
+    "cv": 3,
+    "n_samples": 5
+}
