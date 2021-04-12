@@ -19,9 +19,11 @@ This is code corresponding to step 1 in my article [Jupyter Notebook to Microser
 
 ### Testing 
 To run unit tests and pycodestyle, from the root directory run:
+
     $ sh tests/test_all.sh
 
 To run an individual test script:
+
     $ python3 tests/unit/test_data_utils.py
 
 ### Usage
