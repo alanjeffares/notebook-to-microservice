@@ -1,6 +1,11 @@
-## Jupyter Notebook to Deployment - A Straightforward Example
+<div align="center">
 
-![Main image](main-img.jpeg?raw=true)
+## Jupyter Notebook to Deployment - A Straightforward Example
+</div>
+
+<p align="center">
+<img src="https://github.com/alanjeffares/notebook-to-microservice/blob/master/main-img.jpeg"  width="500">
+</p>
 
 This repository contains the companion code to accompany my article [From Jupyter Notebook to Production - A Straightforward Example](link). The article begins with a typical toy problem with a simple data pipeline solution in Jupyter Notebook format and develops it into a deployed microservice with this repository storing the code following each of the four steps in the article. 
 
